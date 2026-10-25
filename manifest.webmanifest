@@ -1,0 +1,17 @@
+{
+  "name": "Ventes · BOUAZZA IMMO",
+  "short_name": "Ventes",
+  "description": "Suivi commercial de la résidence : lots, clients, réservations, ventes et encaissements.",
+  "lang": "fr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#17181a",
+  "theme_color": "#17181a",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
